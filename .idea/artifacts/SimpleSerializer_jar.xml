@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleSerializer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleSerializer_jar</output-path>
+    <root id="archive" name="SimpleSerializer.jar">
+      <element id="module-output" name="SimpleSerializer" />
+    </root>
+  </artifact>
+</component>
